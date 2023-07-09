@@ -1,0 +1,369 @@
+{
+  "orders": [
+    {
+      "orderId": 1
+    }
+  ],
+  "products": {
+    "allproducts": [
+      {
+        "category": "smartwatch",
+        "cost": 4299,
+        "description": "Premium Round Dial Smartwatch with 1.39 (3.53 cms) Big Amoled Display, Watch Face Studio, 700+ Active Modes, 15 Days Of Battery Life",
+        "id": "1",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/LunarConnectProFI01-removebg-preview_500x.png?v=1682421574",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnectProFI03_3_900x.png?v=1682421574",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnectProFI09_3_900x.png?v=1682421574",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnectProFI07_3_900x.png?v=1682421574"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/LunarConnectProFI01-removebg-preview_500x.png?v=1682421574",
+        "name": "Lunar Connect Pro",
+        "rating": 4
+      },
+      {
+        "category": "soundbar",
+        "cost": 3799,
+        "description": "Wireless Bluetooth Speaker with 20W RMS Stereo Sound, RGB LEDs, 4.5 Hrs Playback, USB, FM, AUX, BT",
+        "id": "2",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/main---1_14fdb862-156c-4161-a402-b4e56a464ec1_600x.png?v=1678952224",
+          "https://www.boat-lifestyle.com/cdn/shop/products/PP50-FI04_878b15f1-70ad-4ffb-bc76-00bd6c6cfbca_800x.png?v=1678952224",
+          "https://www.boat-lifestyle.com/cdn/shop/products/PP50-FI05_8438772f-e9b7-4371-9f24-5f35ad2d68db_800x.png?v=1678952225",
+          "https://www.boat-lifestyle.com/cdn/shop/products/PP50-FI06_cb7d919d-590d-4eba-b57d-6561910e9a7c_800x.png?v=1678952225"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/main---1_14fdb862-156c-4161-a402-b4e56a464ec1_600x.png?v=1678952224",
+        "name": "Party Pal 53",
+        "rating": 5
+      },
+      {
+        "category": "smartwatch",
+        "cost": 1799,
+        "description": "BT Calling Smartwatch with 1.69 (4.29 cm) HD Curved Display, 150+ Watch Faces, Multiple Sports Modes",
+        "id": "3",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/wave-call-Copy_dcaa5c5f-2574-4a71-ba0e-a77e7a82abfa_600x.png?v=1678190676",
+          "https://www.boat-lifestyle.com/cdn/shop/files/wave-call-FI-3.2_800x.png?v=1685620589",
+          "https://www.boat-lifestyle.com/cdn/shop/files/wave-call-FI-1.1_800x.png?v=1685620589",
+          "https://www.boat-lifestyle.com/cdn/shop/files/wave-call-FI-2.2_800x.png?v=1685620589"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/wave-call-Copy_dcaa5c5f-2574-4a71-ba0e-a77e7a82abfa_600x.png?v=1678190676",
+        "name": "TRebel Wave Call",
+        "rating": 2
+      },
+      {
+        "category": "headphones",
+        "cost": 2299,
+        "description": "50mm Dynamic Drivers: Immersive Audio, Superior Playback: Up to 20 Hours of Music Bliss, Bluetooth v5.0, Ergonomically Designed Over-Ear Headphone",
+        "id": "4",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/main2_ba58a7c3-19e5-4c05-93b7-286b833f62ea_600x.png?v=1684931893",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41LZjB7UQRL_4d646ef7-2326-496a-bef0-939d10d95799_500x.jpg?v=1685968699",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41-Y-TqBgQL_63e8b626-1be7-42fd-93ab-5b1c62f21b44_500x.jpg?v=1685968699",
+          "https://www.boat-lifestyle.com/cdn/shop/files/51hD4qwyKDL_9f9de177-37c3-4cf1-b93c-54ab57ca7d65_500x.jpg?v=1685968700"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/main2_ba58a7c3-19e5-4c05-93b7-286b833f62ea_600x.png?v=1684931893",
+        "name": "Rockerz 558 Sunburn Edition Pink",
+        "rating": 4.5
+      },
+      {
+        "category": "soundbar",
+        "cost": 2999,
+        "description": "Premium 15W Portable Bluetooth Speaker with Led Lit, Full Range Driver, 4.5 Hours of Party Time, BT, Aux",
+        "id": "5",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/81mSVnYiRCL._SL1500_-PhotoRoom.png-PhotoRoom_1280x.png?v=1676920871",
+          "https://www.boat-lifestyle.com/cdn/shop/files/71RFGJMJcbL._SY450_450x.jpg?v=1686146086",
+          "https://www.boat-lifestyle.com/cdn/shop/files/71mPWd1RP-L._SY450_450x.jpg?v=1686146086",
+          "https://www.boat-lifestyle.com/cdn/shop/files/71sIPzTUFBL._SY450_450x.jpg?v=1686146087"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/81mSVnYiRCL._SL1500_-PhotoRoom.png-PhotoRoom_1280x.png?v=1676920871",
+        "name": "Party Pal 20",
+        "rating": 2
+      },
+      {
+        "category": "smartwatch",
+        "cost": 1949,
+        "description": "Round Dial Smart Watch with 1.28” (3.25 cm) HD Display, BT Calling, Supports Hindi & English Language, Up to 20 contacts, 100+ Sports Modes",
+        "id": "6",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/1.1129_800x.png?v=1678102525",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnect-FI_Black03_800x.png?v=1678115037",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnect-FI_Black05_800x.png?v=1678115037",
+          "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnect-FI_Black02_800x.png?v=1678115037"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/1.1129_800x.png?v=1678102525",
+        "name": "Lunar Connect",
+        "rating": 3.5
+      },
+      {
+        "category": "headphones",
+        "cost": 999,
+        "description": "Wireless Headphone with 40mm Dynamic Driver, Bluetooth & AUX Connectivity, Upto 8HRS Playback",
+        "id": "7",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/e5881832-36f8-4c1c-a767-10f2c2a55a02_600x.png?v=1685708053",
+          "https://www.boat-lifestyle.com/cdn/shop/files/61fEUPDotVL._SY450_450x.jpg?v=1685708044",
+          "https://www.boat-lifestyle.com/cdn/shop/files/61u1-1dZA1L._SY450_450x.jpg?v=1685708043",
+          "https://www.boat-lifestyle.com/cdn/shop/files/61esGy-KNFL._SY450_450x.jpg?v=1685708043"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/e5881832-36f8-4c1c-a767-10f2c2a55a02_600x.png?v=1685708053",
+        "name": "Rockerz 370",
+        "rating": 5
+      },
+      {
+        "category": "soundbar",
+        "cost": 5999,
+        "description": "25W RMS Bluetooth Stereo Soundbar, Up to 7HRS Long Playback, 2.0 Channel, Dual Passive Radiators, BT, AUX",
+        "id": "8",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB_600_FI-2-removebg-preview_500x.png?v=1684843170",
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB600FIcopy2_800x.png?v=1684843170",
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB600FIcopy3_800x.png?v=1684843170",
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB600FI_800x.png?v=1684843170"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/AB_600_FI-2-removebg-preview_500x.png?v=1684843170",
+        "name": "Aavante Bar 600",
+        "rating": 5
+      },
+      {
+        "category": "headphones",
+        "cost": 4599,
+        "description": "Wireless Headphone with 40 mm drivers, 65 Hours (54 Hours with ANC), Type C, Dual Compatibility",
+        "id": "9",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/main1_c07e7a91-ebc0-44bd-87fa-7e3d8d897b06_600x.png?v=1644301639",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmnv3dzpuh_416x.webp?v=1685707922",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmpwk8h6fp_416x.webp?v=1685707922",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmk3hqabee_416x.webp?v=1685707922"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/main1_c07e7a91-ebc0-44bd-87fa-7e3d8d897b06_600x.png?v=1644301639",
+        "name": "Nirvanaa 751 ANC",
+        "rating": 3.5
+      },
+      {
+        "category": "headphones",
+        "cost": 3999,
+        "description": "Over Ear Bluetooth Headphones with Upto 15 Hours Playback, Adaptive Headband, 40mm Dynamic Driver, 300 mah Battery",
+        "id": "10",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/eb8e0fbd-c412-48b3-9c91-5b49ddf35800_931c22f0-d145-4334-9c51-e394ed8bb90b_600x.png?v=1678075255",
+          "https://www.boat-lifestyle.com/cdn/shop/products/drivers-blue_f67490e9-0924-4295-8c56-3458199994ad_800x.jpg?v=1678075256",
+          "https://www.boat-lifestyle.com/cdn/shop/products/last-beige_7e702e11-65f8-4673-8d79-10db43b0bef7_800x.jpg?v=1678075256",
+          "https://www.boat-lifestyle.com/cdn/shop/products/playback-beige_84962499-644d-4b4d-9610-c14bbcc6d0a7_800x.jpg?v=1678075257"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/eb8e0fbd-c412-48b3-9c91-5b49ddf35800_931c22f0-d145-4334-9c51-e394ed8bb90b_600x.png?v=1678075255",
+        "name": "Rockerz 450 POLO",
+        "rating": 3
+      },
+      {
+        "category": "smartwatch",
+        "cost": 1499,
+        "description": "1.83 (4.64 cm) Large Display BT Calling Smartwatch, Upto 10 Days Battery, IP68, Dust & Splash Resistance",
+        "id": "11",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnectPackaging1.2_800x.png?v=1677645513",
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnect-FI_Black02_800x.png?v=1677647647",
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnect-FI_Black04_800x.png?v=1677647647",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/dust.jpg?v=1677761193"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnectPackaging1.2_800x.png?v=1677645513",
+        "name": "Wave Flex Connect",
+        "rating": 4.5
+      },
+      {
+        "category": "headphones",
+        "cost": 2099,
+        "description": "Wireless Headphone with 50mm dynamic drivers, 20H Playback, Bluetooth v5.0, 500mAh battery",
+        "id": "12",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/main1_2b670523-0832-488c-9344-897907a84a79_600x.png?v=1662547691",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41C0sp50T9L_bce4ac1c-8345-4cdb-b592-8cb535357f6f_72x.jpg?v=1685968530",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41WRfgF8MTL_f0ac6db3-6a69-4ba7-84f6-6c095631de13_500x.jpg?v=1685968529",
+          "https://www.boat-lifestyle.com/cdn/shop/files/51N_aMAenXL_aa5c1e15-97ed-40cd-9eb6-4d62d4961794_500x.jpg?v=1685968529"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/main1_2b670523-0832-488c-9344-897907a84a79_600x.png?v=1662547691",
+        "name": "Rockerz 558 Sunburn Edition Yellow",
+        "rating": 4.5
+      },
+      {
+        "category": "soundbar",
+        "cost": 10499,
+        "description": "Bluetooth Soundbar with Wireless Subwoofer, 200W RMS boAt Signature Sound, Multiple EQ Mode, BT v5.3",
+        "id": "13",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB_2000_combined_1500x.png?v=1687943983",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard2_11_800x.png?v=1687959209",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard3_13_800x.png?v=1687959209",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard4_3_800x.png?v=1687959209"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/AB_2000_combined_1500x.png?v=1687943983",
+        "name": "Aavante Bar 2000 Pro",
+        "rating": 5
+      },
+      {
+        "category": "headphones",
+        "cost": 1599,
+        "description": "Bluetooth Headphone for Work from Home, 8 Hours Playback, 40mm Dynamic Drivers, Super Extra Bass",
+        "id": "14",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/rockerz-410-black_600x.png?v=1613457276",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup3_1_659166de-19d4-4852-b9a4-572a6f28bc3d_900x.png?v=1667832536",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup3_2_a8052728-ceaf-466c-8c15-577413bb2112_900x.png?v=1667832536",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup3_3_e72b6b0d-b020-48e2-959f-25baa0dfbeca_900x.png?v=1667832536"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/rockerz-410-black_600x.png?v=1613457276",
+        "name": "Rockerz 410",
+        "rating": 2
+      },
+      {
+        "category": "smartwatch",
+        "cost": 2299,
+        "description": "1.91 (4.85 cm) Largest Display Smartwatch, BT Calling, ENx™ Algorithm, Bilingual, 100+ Sports Mode",
+        "id": "15",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/Untitled_design-removebg-preview_500x.png?v=1683890475",
+          "https://www.boat-lifestyle.com/cdn/shop/files/XtendCallPlus-FI_Black02_800x.png?v=1683890475",
+          "https://www.boat-lifestyle.com/cdn/shop/files/XtendCallPlus-FI_Black04_800x.png?v=1683890475",
+          "https://www.boat-lifestyle.com/cdn/shop/files/XtendCallPlus-FI_Black05_800x.png?v=1683890475"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/Untitled_design-removebg-preview_500x.png?v=1683890475",
+        "name": "Xtend Call Plus",
+        "rating": 5
+      },
+      {
+        "category": "headphones",
+        "cost": 1099,
+        "description": "Wireless Bluetooth Headphone with 40mm Dyanmic Drivers, 8 Hours Non-Stop Playback, Lightweight & Portable",
+        "id": "16",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/06bd8915-8db7-4575-9558-c97bf050d8d7_600x.png?v=1625044994",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup_green_4_800x.png?v=1667514522",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup_green_3_800x.png?v=1667514522",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Backup_green_2_800x.png?v=1667514522"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/06bd8915-8db7-4575-9558-c97bf050d8d7_600x.png?v=1625044994",
+        "name": "Rockerz 400",
+        "rating": 4
+      },
+      {
+        "category": "headphones",
+        "cost": 1599,
+        "description": "Wireless Headphone with Dynamic 50mm Driver, Up To 20 Hours Of Playtime, Easy Control & Lightweight",
+        "id": "17",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/rockerz-518-green_600x.png?v=1613457278",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_3_8cfd7d90-4e48-4a85-bc07-01e34ce2e963_800x.jpg?v=1667509001",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_4_fbbe8ab5-67c0-4b03-b44d-fcf2b4dff9b1_800x.jpg?v=1667509001",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_1_446859be-4498-4c06-aafb-4cf38d250e82_800x.jpg?v=1667509001"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/products/rockerz-518-green_600x.png?v=1613457278",
+        "name": "Rockerz 518",
+        "rating": 4
+      },
+      {
+        "category": "soundbar",
+        "cost": 10999,
+        "description": "2.1 Channel Soundbar with Wireless Subwoofer, 160W RMS boAt Signature Sound, Bass & Treble Control",
+        "id": "18",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard_1__1_-removebg-preview_500x.png?v=1683907274",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard3_5_800x.jpg?v=1683907273",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard4_5_800x.jpg?v=1683907274",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard5_5_800x.jpg?v=1683907273"
+        ],
+        "mainImg": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard_1__1_-removebg-preview_500x.png?v=1683907274",
+        "name": "Aavante Bar Theme",
+        "rating": 4.5
+      }
+    ],
+    "featuredProducts": [
+      {
+        "category": "headphones",
+        "cost": 3999,
+        "description": "Over Ear Bluetooth Headphones with Upto 15 Hours Playback, Adaptive Headband, 40mm Dynamic Driver, 300 mah Battery",
+        "id": "10",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/eb8e0fbd-c412-48b3-9c91-5b49ddf35800_931c22f0-d145-4334-9c51-e394ed8bb90b_600x.png?v=1678075255",
+          "https://www.boat-lifestyle.com/cdn/shop/products/drivers-blue_f67490e9-0924-4295-8c56-3458199994ad_800x.jpg?v=1678075256",
+          "https://www.boat-lifestyle.com/cdn/shop/products/last-beige_7e702e11-65f8-4673-8d79-10db43b0bef7_800x.jpg?v=1678075256",
+          "https://www.boat-lifestyle.com/cdn/shop/products/playback-beige_84962499-644d-4b4d-9610-c14bbcc6d0a7_800x.jpg?v=1678075257"
+        ],
+        "name": "Rockerz 450 POLO",
+        "rating": 3
+      },
+      {
+        "category": "smartwatch",
+        "cost": 1499,
+        "description": "1.83 (4.64 cm) Large Display BT Calling Smartwatch, Upto 10 Days Battery, IP68, Dust & Splash Resistance",
+        "id": "11",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnectPackaging1.2_800x.png?v=1677645513",
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnect-FI_Black02_800x.png?v=1677647647",
+          "https://www.boat-lifestyle.com/cdn/shop/products/WaveFlexConnect-FI_Black04_800x.png?v=1677647647",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/dust.jpg?v=1677761193"
+        ],
+        "name": "Wave Flex Connect",
+        "rating": 4.5
+      },
+      {
+        "category": "soundbar",
+        "cost": 10499,
+        "description": "Bluetooth Soundbar with Wireless Subwoofer, 200W RMS boAt Signature Sound, Multiple EQ Mode, BT v5.3",
+        "id": "13",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/files/AB_2000_combined_1500x.png?v=1687943983",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard2_11_800x.png?v=1687959209",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard3_13_800x.png?v=1687959209",
+          "https://www.boat-lifestyle.com/cdn/shop/files/Artboard4_3_800x.png?v=1687959209"
+        ],
+        "name": "Aavante Bar 2000 Pro",
+        "rating": 5
+      }
+    ],
+    "newArrivals": [
+      {
+        "category": "headphones",
+        "cost": 2099,
+        "description": "Wireless Headphone with 50mm dynamic drivers, 20H Playback, Bluetooth v5.0, 500mAh battery",
+        "id": "12",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/main1_2b670523-0832-488c-9344-897907a84a79_600x.png?v=1662547691",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41C0sp50T9L_bce4ac1c-8345-4cdb-b592-8cb535357f6f_72x.jpg?v=1685968530",
+          "https://www.boat-lifestyle.com/cdn/shop/files/41WRfgF8MTL_f0ac6db3-6a69-4ba7-84f6-6c095631de13_500x.jpg?v=1685968529",
+          "https://www.boat-lifestyle.com/cdn/shop/files/51N_aMAenXL_aa5c1e15-97ed-40cd-9eb6-4d62d4961794_500x.jpg?v=1685968529"
+        ],
+        "name": "Rockerz 558 Sunburn Edition Yellow",
+        "rating": 4.5
+      },
+      {
+        "category": "headphones",
+        "cost": 1599,
+        "description": "Wireless Headphone with Dynamic 50mm Driver, Up To 20 Hours Of Playtime, Easy Control & Lightweight",
+        "id": "17",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/rockerz-518-green_600x.png?v=1613457278",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_3_8cfd7d90-4e48-4a85-bc07-01e34ce2e963_800x.jpg?v=1667509001",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_4_fbbe8ab5-67c0-4b03-b44d-fcf2b4dff9b1_800x.jpg?v=1667509001",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Cushion-COmfort2_1_446859be-4498-4c06-aafb-4cf38d250e82_800x.jpg?v=1667509001"
+        ],
+        "name": "Rockerz 518",
+        "rating": 4
+      },
+      {
+        "category": "headphones",
+        "cost": 4599,
+        "description": "Wireless Headphone with 40 mm drivers, 65 Hours (54 Hours with ANC), Type C, Dual Compatibility",
+        "id": "9",
+        "img": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/main1_c07e7a91-ebc0-44bd-87fa-7e3d8d897b06_600x.png?v=1644301639",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmnv3dzpuh_416x.webp?v=1685707922",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmpwk8h6fp_416x.webp?v=1685707922",
+          "https://www.boat-lifestyle.com/cdn/shop/files/original-imagb7bmk3hqabee_416x.webp?v=1685707922"
+        ],
+        "name": "Nirvanaa 751 ANC",
+        "rating": 3.5
+      }
+    ]
+  }
+}

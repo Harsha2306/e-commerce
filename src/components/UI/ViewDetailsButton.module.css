@@ -1,0 +1,12 @@
+.buttonStyles {
+  width: 6rem;
+  height: 3rem;
+  border-radius: 1rem;
+  font-family: revert;
+  color: #F5F5F5;
+  background-color:#2D2727;
+}
+
+button:hover{
+  cursor: pointer;
+}
